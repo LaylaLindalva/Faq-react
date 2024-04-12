@@ -1,0 +1,10 @@
+:root{
+    --White: hsl(0, 0%, 100%)
+}
+
+.section{
+    background-color: var(--White);
+    border-radius: 50px;
+    width: 600px;
+    height: 400px;
+}
